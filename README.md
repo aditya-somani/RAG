@@ -21,7 +21,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) system built with LangGraph
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aditya-somani/RAG.git
    cd RAG
    ```
 

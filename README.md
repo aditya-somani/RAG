@@ -87,7 +87,7 @@ RAG/
 **Aditya Somani**
 
 - LinkedIn: [Aditya Somani](https://www.linkedin.com/in/aditya-somani-03631727b/)
-- Email: [Mail](adityasomani456@gmail.com)
+- Email: adityasomani456@gmail.com
 
 ## License
 
